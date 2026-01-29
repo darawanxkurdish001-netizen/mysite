@@ -3,13 +3,11 @@ import openai
 import os
 
 # تۆکنەکان لە Environment Variable
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8437384062:AAF1q-tyLa5XGtV_Y2YPTW_vCiVPIL3nYJI")
 OPENAI_KEY = os.getenv("OPENAI_KEY")
 
 bot = telebot.TeleBot(8437384062:AAF1q-tyLa5XGtV_Y2YPTW_vCiVPIL3nYJI)
 openai.api_key = OPENAI_KEY
-
-
 @bot.message_handler(commands=['start'])
 def start(message):
     bot.reply_to(
