@@ -89,7 +89,7 @@
     <p>© 2026 - بژی کوردستان 🤍❤️💚</p>
   </footer>
 
-</body><img src="<img src="Photo lak.png" alt="وێنە">
+</body><img src="<img src="Photo lak.png" alt="Photo lak.png">
 " width="250">
 
 </html>
