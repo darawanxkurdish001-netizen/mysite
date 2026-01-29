@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ku">
 <head>
   <meta charset="UTF-8">
@@ -57,7 +56,8 @@
     }
   </style>
 </head>
-<body><img src="Photo lak.png" width="250">
+<body><img src="<img src="Photo lak.png" alt="وێنە">
+" width="250">
 
 
   <header>
@@ -67,7 +67,8 @@
 
   <section>
     <h2>دەربارەی کورد و کوردستان</h2>
-    <img src="profile.jpg" alt="وێنە">
+    <img src="<img src="Photo lak.png" alt="وێنە">
+" alt="وێنە">
     <p>کورد گەلێکی کۆن و شانۆدارە، خاوەنی مێژوو، کولتوور و زمانێکی جوانە.</p>
     <p>کوردستان خاکی ئازادی و شانازییە، کە هەمیشە بۆ ماف و ئازادی خۆی تێکۆشان کردووە.</p>
     <p><strong>بژی کورد، بژی کوردستان، بژی هەریر ❤️</strong></p>
@@ -88,6 +89,7 @@
     <p>© 2026 - بژی کوردستان 🤍❤️💚</p>
   </footer>
 
-</body><img src="Photo lak.png" width="250">
+</body><img src="<img src="Photo lak.png" alt="وێنە">
+" width="250">
 
 </html>
