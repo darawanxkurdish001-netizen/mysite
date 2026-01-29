@@ -56,7 +56,7 @@
     }
   </style>
 </head>
-<body><img src="<img src="Photo lak.png" alt="وێنە">
+<body><img src="Photo lak.png" alt="وێنە">
 " width="250">
 
 
@@ -67,7 +67,7 @@
 
   <section>
     <h2>دەربارەی کورد و کوردستان</h2>
-    <img src="<img src="Photo lak.png" alt="وێنە">
+    <img <img src="Photo lak.png" alt="وێنە">
 " alt="وێنە">
     <p>کورد گەلێکی کۆن و شانۆدارە، خاوەنی مێژوو، کولتوور و زمانێکی جوانە.</p>
     <p>کوردستان خاکی ئازادی و شانازییە، کە هەمیشە بۆ ماف و ئازادی خۆی تێکۆشان کردووە.</p>
@@ -89,7 +89,7 @@
     <p>© 2026 - بژی کوردستان 🤍❤️💚</p>
   </footer>
 
-</body><img src="<img src="Photo lak.png" alt="Photo lak.png">
-" width="250">
+</body><="<img src="Photo lak.png" alt="Photo lak.png">
+
 
 </html>
